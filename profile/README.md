@@ -1,4 +1,4 @@
-# Welcome to UMC Utrecht Real World Evidence (RWE) Github Organization 👋
+# Welcome to UMC Utrecht Real-World Evidence (RWE) Github Organization 👋
 
 <!--
 
