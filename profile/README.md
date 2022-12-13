@@ -22,6 +22,11 @@ The RWE Github organization comprises the scripts and functions that are used in
 -------------------------------------------
 ### Do you want to be involved?
 
-If you are part of VAC4EU and you want to have access to one or more repositories, please fil up the following <a href="https://vac4eu.sharepoint.com/:x:/r/sites/Toolbox/_layouts/15/Doc.aspx?sourcedoc=%7BD091D078-9202-439E-B0A1-93D65D5045E3%7D&file=Github%20UMCU%20RWE%20Acces%20List.xlsx&action=default&mobileredirect=true"> form </a> and we will give you access as soon as possible.
+To have access to one or more repositories, please fill up the following and we will give you access as soon as possible.
 
-If you are not part of VAC4EU and want access to any of our work please contact Tiago Andres Vaz (t.andresvaz@umcutrecht.nl) or Albert Cid Royo (a.cidroyo@umcutrecht.nl)
+If you are part of VAC4EU:  <a href="https://vac4eu.sharepoint.com/:x:/r/sites/Toolbox/_layouts/15/Doc.aspx?sourcedoc=%7BD091D078-9202-439E-B0A1-93D65D5045E3%7D&file=Github%20UMCU%20RWE%20Acces%20List.xlsx&action=default&mobileredirect=true"> Registration form (VAC4EU) </a> 
+
+If you are part of ConcePTION:
+ <a href="https://forms.office.com/e/92KrryY3s2"> Registration form (ConcePTION) </a> 
+ 
+For all other cases, please contact Tiago Andres Vaz (t.andresvaz@umcutrecht.nl) or Albert Cid Royo (a.cidroyo@umcutrecht.nl)
