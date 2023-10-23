@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-The Real-World Evidence group at the University Medical Center Utrecht enables robust evidence on the usage and potential benefits or risks of a medical product derived from analysis of Real- World data generated during health care delivery. 
+The Real-World Evidence group at the University Medical Center Utrecht enables robust evidence on the usage and potential benefits or risks of a medical product derived from analysis of Real-World data generated during health care delivery. 
 
 We implement and continuously develop and improve methods for a data transformation pipeline that can be applied to multiple common data models (FHIR, ConcePTION, OMOP) to generate RWE. We also develop RWD quality checks to assess whether RWD are complete, logical and fit for purpose. 
 
