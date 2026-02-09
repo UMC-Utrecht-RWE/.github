@@ -29,4 +29,4 @@ If you are part of VAC4EU:  <a href="https://forms.cloud.microsoft/Pages/Respons
 If you are part of ConcePTION:
  <a href="https://forms.office.com/e/64tNyQN2eC"> Registration form (ConcePTION) </a> 
  
-For all other cases, please contact Albert Cid Royo (a.cidroyo@umcutrecht.nl)
+For all other cases, please contact Albert Cid Royo (a.cidroyo@umcutrecht.nl) and Amirreza Dehghan Tarazjani (A.DehghanTarazjani@umcutrecht.nl)
